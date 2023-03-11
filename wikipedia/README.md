@@ -1,0 +1,1 @@
+The html files and the content of the CSV files in this folder are scraped from Wikipedia.org and as such are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
