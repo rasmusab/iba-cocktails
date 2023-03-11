@@ -5,7 +5,8 @@
 library(tidyverse)
 library(rvest)
 
-html_dir <- "html"
+base_dir <- "iba-web" 
+html_dir <- file.path(base_dir, "html")
 unlink(html_dir, recursive = TRUE)
 dir.create(html_dir, recursive = TRUE, showWarnings = FALSE)
 
@@ -41,7 +42,7 @@ cocktails_raw <- cocktails_scrape_info |>
   select(category, name, ingredients, method, garnish) |> 
   arrange(category, name)
 
-write_csv(cocktails_raw,"iba-cocktails-raw.csv")
+write_csv(cocktails_raw, file.path(base_dir, "iba-cocktails-web-raw.csv"))
 
 
 

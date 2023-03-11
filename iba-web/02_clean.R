@@ -18,7 +18,8 @@ library(tidyr)
 library(tools)
 library(jsonlite)
 
-cocktails_raw <- read_csv("iba-cocktails-raw.csv")
+base_dir <- "iba-web" 
+cocktails_raw <- read_csv(file.path(base_dir, "iba-cocktails-web-raw.csv"))
 
 cocktails <- cocktails_raw |> 
   mutate(
@@ -105,6 +106,9 @@ cocktails_nested_ingredients <- cocktails |>
     nest(ingredients = c(direction, quantity, unit, ingredient, note))
   )
 
-write_csv(cocktails, "iba-cocktails.csv")
-write_csv(cocktail_ingredients, "iba-cocktails-ingredients.csv")
-write_json(cocktails_nested_ingredients, "iba-cocktails.json", dataframe = 'rows', pretty = T)
+write_csv(cocktails, file.path(base_dir, "iba-cocktails-web.csv"))
+write_csv(cocktail_ingredients, file.path(base_dir, "iba-cocktails-ingredients-web.csv"))
+write_json(
+  cocktails_nested_ingredients, file.path(base_dir, "iba-cocktails-web.json"), 
+  dataframe = 'rows', pretty = T
+)
