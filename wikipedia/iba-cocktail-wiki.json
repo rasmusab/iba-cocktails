@@ -1,0 +1,819 @@
+[
+  {
+    "category": "Contemporary classics",
+    "name": "Bellini",
+    "type": "Wine cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Champagne flute",
+    "method": "Pour peach purée into chilled glass, add sparkling wine. Stir gently.",
+    "notes": "Traditionally a Bellini uses white peaches for the fruit.",
+    "ingredients": ["10 cl (2 parts) Prosecco", "5 cl (1 part) fresh peach purée"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Black Russian",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Old fashioned glass",
+    "method": "Pour the ingredients into the old fashioned glass filled with ice cubes. Stir gently.",
+    "ingredients": ["50 ml Vodka", "20 ml Coffee liqueur"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Bloody Mary",
+    "type": "Mixed drink",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Highball glass",
+    "method": "Stirring gently, pour all ingredients into highball glass. Garnish.",
+    "ingredients": ["4.5 cl (3 parts) vodka", "9 cl (6 parts) Tomato juice", "1.5 cl (1 part) Lemon juice", "2 to 3 dashes of Worcestershire Sauce", "Tabasco sauce", "Celery salt", "Black pepper"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Caipirinha",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Old fashioned glass",
+    "method": "Place lime and sugar into a double old fashioned glass and muddle gently. Fill the glass with cracked ice and add Cachaça. Stir gently to involve ingredients.",
+    "notes": "Caipiroska – instead of cachaça use vodka",
+    "ingredients": ["60 ml cachaça", "1 lime cut into small wedges", "4 teaspoons white cane sugar"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Champagne cocktail",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Champagne flute",
+    "method": "Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by gently pouring chilled champagne. Garnish with orange slice and maraschino cherry.",
+    "ingredients": ["9cl Champagne", "1cl Cognac", "2 dashes Angostura bitters", "1 Sugar cube"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Corpse reviver #2",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Shake ingredients together in a mixer with ice. Strain into chilled glass. Garnish with orange zest.",
+    "ingredients": ["3 cl gin", "3 cl lemon juice", "3 cl Cointreau", "3 cl Lillet Blanc", "1 dash absinthe"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Cosmopolitan",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Shake all ingredients in cocktail shaker filled with ice. Strain into a large cocktail glass. Garnish with lime slice.",
+    "notes": "The drink should be a frothy bright pink color",
+    "ingredients": ["4 cl Vodka Citron", "1.5 cl Cointreau", "1.5 cl Fresh lime juice", "3 cl Cranberry juice"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Cuba libre",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Highball glass",
+    "method": "Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.",
+    "ingredients": ["120 ml cola", "50 ml white rum", "10 ml Fresh lime juice"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "French 75",
+    "type": "Wine cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Champagne flute",
+    "method": "Combine gin, syrup, and lemon juice in a cocktail shaker filled with ice. Shake vigorously and strain into a chilled champagne glass. Top up with champagne. Stir gently.",
+    "ingredients": ["30 ml (1.0 US fl oz) gin", "15 ml (0.51 US fl oz) lemon juice", "15 ml (0.51 US fl oz) simple syrup", "60 ml (2.0 US fl oz) Champagne"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "French Connection",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Old fashioned glass",
+    "method": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
+    "ingredients": ["3.5cl Cognac", "3.5cl Amaretto liqueur"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Golden dream",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Shake with cracked ice.  Strain into glass and serve.",
+    "notes": "Should be quite fluffy",
+    "ingredients": ["2 cl (2 parts) Galliano", "2 cl (2 parts) Triple Sec", "2 cl (2 parts) Fresh orange juice", "1 cl (1 part) Fresh cream"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Grasshopper",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass.",
+    "ingredients": ["3 cl crème de menthe (green)", "3 cl crème de cacao (white)", "3 cl cream"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Hemingway special",
+    "type": "Mixed drink",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into a shaker with ice. Shake.",
+    "ingredients": ["6 cL (12 parts) Rum", "4 cl (8 parts) grapefruit juice", "1.5 cL (3 parts) Maraschino liqueur", "1.5 cl (3 parts) fresh lime juice"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Horse's neck",
+    "type": "Highball",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Highball glass",
+    "method": "Pour brandy and ginger ale directly into highball glass with ice cubes. Stir gently. Garnish with lemon zest. If desired, add dashes of Angostura Bitter.",
+    "ingredients": ["4 cL (1 part) Brandy", "12 cL (3 parts) Ginger ale", "Dash of Angostura bitter (optional)"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Irish coffee",
+    "type": "Mixed drink",
+    "served": "Hot",
+    "standard_drinkware": "Irish coffee mug",
+    "method": "Pour the coffee into a preheated glass, add whiskey and sugar, and stir until dissolved. Pour cream slowly to form a distinct layer.",
+    "ingredients": ["50 ml Irish whiskey", "120 ml hot coffee", "50 ml fresh cream (chilled)", "1 tsp sugar"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Kir",
+    "type": "Wine cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Wine glass (white)",
+    "method": "Add the crème de cassis to the bottom of the glass, then top up with wine.",
+    "notes": "A recipe can be found at the International Bartenders Association website.",
+    "ingredients": ["9 cl (9 parts) white wine", "1 cl (1 part) crème de cassis"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Long Island iced tea",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Highball glass",
+    "method": "Add all ingredients into highball glass filled with ice. Stir gently. Optionally garnish with lemon slice.",
+    "ingredients": ["15 ml Tequila", "15 ml Vodka", "15 ml White rum", "15 ml Cointreau", "15 ml Gin", "30 ml Lemon juice", "20 ml simple syrup", "Top with Cola"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Mai Tai",
+    "type": "Cocktail",
+    "served": "shaved or crushed ice",
+    "standard_drinkware": "Old fashioned glass",
+    "method": "Add all ingredients into a shaker with ice. Shake and pour into a double rocks glass or a highball glass.",
+    "notes": "The Martinique molasses rum used by Trader Vic was not an Agricole rum but a type of \"rummy\" from molasses.",
+    "ingredients": ["30 ml amber Jamaican rum", "30 ml Martinique molasses rhum", "15 ml orange curaçao", "15 ml orgeat syrup (almond)", "30 ml fresh lime juice", "7.5 ml simple syrup"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Margarita",
+    "type": "Cocktail",
+    "served": "Rocks, straight up, frozen",
+    "standard_drinkware": "Margarita glass",
+    "method": "Add all ingredients into a shaker with ice. Shake and strain into a chilled cocktail glass.",
+    "ingredients": ["50 ml tequila 100% agave", "20 ml triple sec", "15 ml freshly squeezed lime juice"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Mimosa",
+    "type": "Wine cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Champagne flute",
+    "method": "Ensure both ingredients are well chilled, then mix into the glass. Serve cold.",
+    "ingredients": ["7.5 cl champagne", "7.5 cl orange juice"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Mint julep",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Silver cup or highball glass",
+    "method": "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is well frosted. Garnish with a mint sprig.",
+    "ingredients": ["6 cL (2.0 US fl oz) bourbon whiskey", "4 mint leaves", "1 teaspoon powdered sugar", "2 teaspoons water"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Mojito",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Collins glass",
+    "method": "Mix mint sprigs with sugar and lime juice. Add splash of soda water and fill the glass with ice",
+    "ingredients": ["45 ml white rum", "20 ml fresh lime juice", "6 sprigs of mint", "2 teaspoons white cane sugar (or 2 cl of sugar syrup)", "Soda water"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Moscow mule",
+    "type": "Mixed drink",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "copper mug",
+    "method": "Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish.",
+    "ingredients": ["4.5 cl (9 parts) vodka", "1 cl (2 parts) lime juice", "12 cl (24 parts) ginger beer"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Pisco sour",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Old fashioned glass",
+    "method": "Vigorously shake contents in a cocktail shaker with ice cubes, then strain into a glass and garnish with bitters.",
+    "ingredients": ["60 ml Pisco", "30 ml lemon juice", "20 ml simple syrup", "1 egg white", "Several drops of aromatic bitters at the end"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Piña colada",
+    "type": "Cocktail",
+    "served": "Frozen: blended with ice",
+    "standard_drinkware": "Poco Grande glass",
+    "method": "Blend all the ingredients with ice in an electric blender, pour into a large goblet or Hurricane glass and serve.",
+    "ingredients": ["5 parts white rum", "3 parts coconut cream", "5 parts fresh pineapple juice"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Sea breeze",
+    "type": "Mixed drink",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Highball glass",
+    "method": "Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.",
+    "ingredients": ["4 cl Vodka", "12 cl Cranberry juice", "3 cl Grapefruit juice"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Sex on the beach",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Highball glass",
+    "method": "Build all ingredients in a highball glass filled with ice. Garnish with orange slice.",
+    "ingredients": ["4 cl Vodka", "2 cl Peach schnapps", "4 cl Orange juice", "4 cl cranberry juice"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Singapore sling",
+    "type": "Mixed drink",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Hurricane glass",
+    "method": "Pour all ingredients into a cocktail shaker filled with ice cubes. Shake well. Strain into Hurricane glass.",
+    "ingredients": ["30 ml gin", "15 ml cherry liqueur", "7.5 ml Cointreau", "7.5 ml DOM Bénédictine", "120 ml fresh pineapple juice", "15 ml fresh lime juice", "10 ml Grenadine", "1 dash Angostura bitters"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Tequila sunrise",
+    "type": "Mixed drink",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Collins glass",
+    "method": "Pour the tequila and orange juice into glass over ice.  Add the grenadine, which will sink to the bottom.  Stir gently to create the sunrise effect.  Garnish and serve.",
+    "ingredients": ["4.5 cl (3 parts) tequila", "9 cl (6 parts) orange juice", "1.5 cl (1 part) grenadine syrup"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Vesper",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into a cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+    "ingredients": ["45 ml gin", "15 ml vodka", "7.5 ml Lillet Blanc"]
+  },
+  {
+    "category": "Contemporary classics",
+    "name": "Zombie",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Zombie glass",
+    "method": "Mix ingredients in a shaker with crushed ice and shake. Pour into a tall tumbler glass.",
+    "notes": "Because of the high proof rum, this cocktail could be lit if desired.",
+    "ingredients": ["45 ml Jamaican dark rum", "45 ml Puerto Rican gold rum", "30 ml 151 Demerara rum", "20 ml fresh lime juice", "15 ml falernum", "15 ml Donn’s Mix (2 parts fresh white grapefruit juice and 1 part cinnamon syrup)", "1 tsp Grenadine syrup", "1 dash Angostura bitters", "6 drops Pernod"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Barracuda",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Margarita glass",
+    "method": "Shake pour ingredients with ice. Strain into glass, top with sparkling wine.",
+    "ingredients": ["4.5 cl gold rum", "1.5 cl Galliano", "6 cl pineapple juice", "1 dash fresh lime juice", "Top with Prosecco"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Bee's knees",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Combine gin, honey syrup and lemon juice into a mixing tin. Shake. Strain into chilled cocktail glass. Garnish with lemon peel.",
+    "ingredients": ["2oz gin", "1oz honey syrup", "1oz lemon juice", "garnish with lemon peel"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Bramble",
+    "type": "Mixed drink",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Old Fashioned Glass",
+    "method": "Pour all ingredients into a cocktail shaker except the Crème de Mûre, shake well with ice, strain into chilled old fashioned glass filled with crushed ice, then pour the blackberry liqueur (Crème de Mûre) over the top of the drink, in a circular motion.",
+    "ingredients": ["50 ml Gin", "25 ml Fresh Lemon Juice", "12.5 ml Sugar Syrup", "15 ml Crème de Mûre"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Canchanchara",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Old fashioned glass",
+    "method": "Mix honey with water and lime juice and spread the mixture on the bottom and sides of the glass. Add cracked ice, and then the rum. End by energetically stirring from bottom to top.",
+    "ingredients": ["6 cl rum (Cuban aguardiente)", "1.5 cl fresh lime juice", "1.5 cl raw honey", "5 cl water"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Dark 'n' stormy",
+    "type": "Mixed drink",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Highball glass",
+    "method": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
+    "notes": "Garnish with a lime wedge or slice.",
+    "ingredients": ["60 ml Goslings Rum100 ml Ginger Beer"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Espresso martini",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "ingredients": ["50 ml vodka", "30 ml Kahlúa", "10 ml sugar syrup", "1 strong espresso"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Fernandito",
+    "type": "Mixed drink",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Old fashioned glass",
+    "method": "Fill a double old-fashioned glass with ice. Pour in the Fernet-Branca, fill the glass with cola. Stir gently.",
+    "ingredients": ["5 cl Fernet-Branca", "Cola to top up"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "French martini",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into shaker with ice cubes. Shake well and strain into a chilled cocktail glass. Squeeze oil from lemon peel onto the drink.",
+    "ingredients": ["4.5 cl vodka", "1.5 cl Chambord Raspberry Liqueur", "1.5 cl fresh pineapple juice"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Illegal",
+    "type": "Cocktail",
+    "served": "Served in one of two ways:\nStraight up (no ice) in a chilled cocktail glass\nOn the rocks (over ice) in a traditional clay or terracotta mug",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into shaker with ice cubes. Shake vigorously. Strain into chilled cocktail glass, or \"on the rocks\" into a traditional clay or terracotta mug.",
+    "ingredients": ["3 cl Mezcal (espadín)", "1.5 cl Jamaica overproof white rum", "1.5 cl Falernum", "1 barspoon maraschino Luxardo", "2.25 cl fresh lime juice", "1.5 cl simple syrup", "Few drops of egg white (optional)"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Lemon drop martini",
+    "type": "Mixed drink",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass. Garnish with sugar rim around the glass.",
+    "ingredients": ["30 ml vodka citron", "20 ml triple sec", "15 ml fresh lemon juice"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Naked and famous",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass.",
+    "ingredients": ["2.25 cl mezcal", "2.25 cl yellow Chartreuse", "2.25 cl Aperol", "2.25 cl fresh lime juice"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "New York sour",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Rocks glass",
+    "method": "Pour the whiskey, syrup, lemon juice, and egg white into shaker with ice cubes. Shake vigorously. Strain into chilled rocks glass filled with ice. Float the wine on top. Garnish with lemon or orange zest and cherry.",
+    "ingredients": ["6 cl whiskey (rye or bourbon)", "2.25 cl Simple syrup", "3 cl fresh lemon juice", "Few drops of egg white", "1.5 cl red wine (Shiraz or Malbec)"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Old Cuban",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients except the wine into cocktail shaker, shake well with ice, strain into chilled elegant cocktail glass. Top up with the sparkling wine and garnish with mint sprigs",
+    "ingredients": ["4.5 cl aged rum", "2.25 cl fresh lime juice", "3 cl simple syrup", "2 dashes Angostura bitters", "6 to 8 mint leaves", "6 cl champagne brut or Prosecco"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Paloma",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Highball glass",
+    "method": "Pour the tequila into a highball glass, squeeze the lime juice. Add ice and salt, fill up pink grapefruit soda. Stir gently.",
+    "ingredients": ["50 ml 100% agave tequila", "5 ml fresh lime juice", "pinch of salt", "100 ml pink grapefruit soda"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Paper plane",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "ingredients": ["30 ml Bourbon whiskey", "30 ml Amaro Nonino", "30 ml Aperol", "30 ml fresh lemon juice"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Penicillin",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Old fashioned glass",
+    "method": "Muddle fresh ginger in a shaker and add the remaining ingredients, except for the Lagavulin whisky. Fill the shaker with ice and shake. Double-strain into a chilled old fashioned glass with ice. Float the Lagavulin whisky on top.",
+    "ingredients": ["6 cl blended Scotch whisky", "0.75 cl Lagavulin 16y whisky", "2.25 cl fresh lemon juice", "2.25 cl honey syrup", "2-3 quarter-sized slices of fresh ginger"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Russian spring punch",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Highball glass",
+    "method": "Pour all ingredients into cocktail shaker except the sparkling wine, shake well with ice, strain into chilled tall tumbler glass filled with ice and top up with sparkling wine.",
+    "ingredients": ["2.5 cl Vodka", "1.5 cl Crème de cassis", "1 cl Sugar Syrup", "2.5 cl Lemon Juice"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Southside",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass",
+    "notes": "If egg white is used shake vigorously",
+    "ingredients": ["60 ml London Dry gin", "30 ml lemon juice", "15 ml simple syrup", "5–6 mint leaves", "few drops of egg white (Optional)"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Spritz",
+    "type": "Wine cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Wine glass (white)",
+    "method": "Build all ingredients into a wine glass filled with ice. Stir gently.",
+    "ingredients": ["9 cl Prosecco", "6 cl Select/Aperol/Campari/Cynar", "Splash of soda water"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Suffering bastard",
+    "type": "Mixed drink",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Collins",
+    "method": "Shake everything but ginger beer with ice, pour unstrained into glass, top with ginger beer.",
+    "ingredients": ["30 ml gin", "30 ml brandy", "15 ml lime juice", "2 dashes Angostura bitters", "ginger beer to top up"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Tipperary",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled cocktail glass. Garnish with a slice of orange.",
+    "ingredients": ["5 cl Irish whiskey", "2.5 cl sweet red vermouth", "1.5 cl green Chartreuse", "2 dashes Angostura bitters"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Tommy's margarita",
+    "type": "Mixed drink",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Rocks glass",
+    "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled rocks glass filled with ice.",
+    "ingredients": ["60 ml Tequila agave 100% reposado", "30 ml Fresh lime juice (Persiano)", "30 ml Agave syrup (1⁄2 water + 1⁄2 agave nectar)"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Trinidad sour",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled cocktail glass.",
+    "ingredients": ["4.5 cl Angostura bitters", "3 cl orgeat syrup", "2.25 cl fresh lemon juice", "1.5 cl rye whiskey"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Ve.n.to",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "tumbler",
+    "method": "Pour all ingredients into the shaker. Shake vigorously with ice. Strain into a chilled small tumbler glass filled with ice.",
+    "notes": "If desired, the water used to make the honey mix can be replaced by chamomile infusion.",
+    "ingredients": ["4.5 cl white smooth grappa", "2.25 cl fresh lemon juice", "1.5 cl honey mix (made with chamomile infusion if desired)", "1.5 cl chamomile cordial", "1 cl egg white (optional)"]
+  },
+  {
+    "category": "New era drinks",
+    "name": "Yellow bird",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into chilled cocktail glass",
+    "ingredients": ["3 cl white rum", "1.5 cl Galliano", "1.5 cl triple sec", "1.5 cl lime juice"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Alexander",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+    "ingredients": ["30 ml cognac", "30 ml crème de cacao (brown)", "30 ml fresh cream"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Americano",
+    "type": "Mixed drink",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Old fashioned glass",
+    "method": "Pour the Campari and vermouth over ice into an old fashioned glass, add a splash of soda water and garnish with half orange slice and a lemon twist.",
+    "ingredients": ["3 cl Campari", "3 cl sweet red vermouth", "A splash of soda water"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Angel face",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into cocktail shaker filled with ice cubes. Shake and strain into a chilled cocktail glass.",
+    "ingredients": ["3 cl gin", "3 cl Apricot brandy", "3 cl Calvados"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Aviation",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.",
+    "ingredients": ["45 ml gin", "15 ml lemon juice", "15 ml maraschino liqueur", "1 barspoon crème de violette"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Between the sheets",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into shaker with ice cubes, shake, strain into chilled cocktail glass.",
+    "ingredients": ["3 cl white rum", "3 cl cognac", "3 cl triple sec", "2 cl fresh lemon juice"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Boulevardier",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+    "ingredients": ["45 ml bourbon or rye whiskey", "30 ml bitter Campari", "30 ml sweet red vermouth"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Brandy crusta",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Mix all ingredients with ice cubes in a mixing glass.  Strain into slim cocktail glass rimmed with sugar.",
+    "ingredients": ["52.5 ml brandy", "7.5 ml Maraschino Luxardo", "1 Bar spoon Curaçao", "15 ml Fresh lemon juice", "1 Bar spoon simple syrup", "2 dashes aromatic bitters"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Casino",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass. Garnish with a lemon twist and a maraschino cherry. Serve without a straw.",
+    "ingredients": ["4 cl gin (Old Tom)", "1 cl Maraschino", "1 cl fresh lemon juice", "2 dashes orange bitters"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Clover Club",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Dry shake ingredients to emulsify, add ice, shake and served straight up.",
+    "ingredients": ["4.5cl Gin", "1.5cl lemon juice", "1.5cl raspberry syrup", "1 egg white or 20 ml aquafaba or 4 drops cocktail foamer"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Daiquiri",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "In a cocktail shaker add all ingredients. Stir well to dissolve the sugar. Add ice and shake. Strain into chilled cocktail glass.",
+    "ingredients": ["60 ml white Cuban rum", "20 ml fresh lime juice", "2 bar spoons superfine sugar"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Dry martini",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "notes": "Squeeze oil from lemon peel onto the drink, or garnish with green olives if requested.",
+    "ingredients": ["60 ml (2.0 US fl oz) gin", "10 ml (0.34 US fl oz) dry vermouth"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Gin fizz",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Old fashioned glass",
+    "method": "Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.",
+    "ingredients": ["4.5 cl gin", "3 cl fresh lemon juice", "1 cl simple syrup", "Splash of soda water"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Hanky panky",
+    "type": "Mixed drink",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Stirred over ice, strained into a chilled glass, garnished, and served up.",
+    "ingredients": ["45 ml London dry gin", "45 ml Sweet red vermouth", "7.5 ml Fernet-Branca"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "John Collins",
+    "type": "Mixed drink",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Collins glass",
+    "method": "Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters.",
+    "ingredients": ["4.5 cl (3 parts) gin", "3 cl (2 parts) freshly squeezed lemon juice", "1.5 cl (1 part) sugar syrup", "6 cl (4 parts) carbonated water"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Last word",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Shake with ice and strain into a cocktail glass.",
+    "ingredients": ["22.5ml gin", "22.5ml lime juice", "22.5ml green Chartreuse", "22.5ml maraschino liqueur"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Manhattan",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+    "notes": "Garnish with a cocktail cherry.",
+    "ingredients": ["50 ml Rye whiskey", "20 ml Sweet red vermouth", "1 dash Angostura bitters"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Martinez",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Stirred over ice, strained into a chilled glass, garnished, and served up.",
+    "ingredients": ["45 ml London Dry Gin", "45 ml Sweet Red Vermouth", "1 Bar Spoon Maraschino Liqueur", "2 Dashes Orange Bitters"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Mary Pickford",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Shake and strain into a chilled large cocktail glass",
+    "ingredients": ["4.5 cl white rum", "4.5 cl fresh pineapple juice", "0.5 cl Grenadine", "0.75 cl Maraschino"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Monkey gland",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.",
+    "ingredients": ["45 ml gin", "45 ml orange juice", "1 tablespoon absinthe", "1 tablespoon grenadine"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Negroni",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Old fashioned glass",
+    "method": "Stir into glass over ice, garnish and serve.",
+    "ingredients": ["3 cl gin", "3 cl sweet red vermouth", "3 cl Campari"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Old fashioned",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Old fashioned glass",
+    "method": "Place sugar cube in old fashioned glass and saturate with bitter, add few dashes of plain water. Muddle until dissolved. Fill the glass with ice cubes and add whiskey. Stir gently. Garnish with orange slice or zest, and a cocktail cherry.",
+    "ingredients": ["45 ml bourbon or rye whiskey", "1 sugar cube", "Few dashes Angostura bitters", "Few dashes plain water"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Paradise",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Shake together over ice.  Strain into cocktail glass and serve chilled.",
+    "ingredients": ["3.5 cl (7 parts) gin", "2 cl (4 parts) apricot brandy", "1.5 cl (3 parts) orange juice"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Planter's punch",
+    "type": "Mixed drink",
+    "standard_drinkware": "Beverage glass",
+    "method": "Pour all ingredients directly in a small tumbler or a typical terracotta glass.",
+    "notes": "Add dilution up to taste, it can be given by water, ice or fresh juices.",
+    "ingredients": ["45 ml Jamaican rum", "15 ml lime juice", "30 ml sugar cane juice"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Porto flip",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Shake ingredients together in a mixer with ice.  Strain into glass, garnish and serve",
+    "ingredients": ["1.5 cl (3 parts) brandy", "4.5 cl (9 parts) port", "1 cl (2 parts) egg yolk"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Ramos fizz",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Collins glass",
+    "method": "All ingredients except the soda are poured in a mixing glass, dry shaken (no ice) for two minutes, then ice is added and shaken hard for another minute. Strain into a highball glass without ice and topped with soda.",
+    "ingredients": ["4.5 cl gin", "1.5 cl fresh lime juice", "1.5 cl fresh lemon juice", "3 cl simple syrup", "6 cl cream", "1 egg white", "3 dashes orange flower water", "2 drops vanilla extract", "soda water"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Rusty nail",
+    "type": "Cocktail",
+    "served": "On the rocks: poured over ice",
+    "standard_drinkware": "Old fashioned glass",
+    "method": "Pour all ingredients directly into an old fashioned glass filled with ice. Stir gently.",
+    "ingredients": ["45 ml Scotch whisky25 ml Drambuie"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Sazerac",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Old fashioned glass",
+    "method": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish.",
+    "notes": "Note: The original recipe changed in the latter part of the 19th century. Rye whiskey was substituted when cognac became difficult to obtain.[2]",
+    "ingredients": ["5 cl cognac (or rye whiskey)", "1 cl absinthe (or Herbsaint)", "One sugar cube", "Two dashes Peychaud's Bitters"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Sidecar",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.",
+    "ingredients": ["5 cl cognac", "2 cl triple sec", "2 cl lemon juice"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Stinger",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into chilled martini cocktail glass.",
+    "notes": "It has been suggested that during the 1920s the stinger ceased being an after-dinner cocktail, and instead should be consumed before dinner.[1] However, until recently the IBA listed the stinger as an after-dinner cocktail.",
+    "ingredients": ["50 ml cognac", "20 ml white crème de menthe"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Tuxedo",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Stir all ingredients with ice and strain into a cocktail glass.  Garnish with a cherry and a twist of lemon zest.",
+    "ingredients": ["3 cl gin (Old Tom)", "3 cl dry Vermouth", "1/2 barspoon Maraschino", "1/4 barspoon Absinthe", "3 dashes orange bitters"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Vieux Carré",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass.",
+    "ingredients": ["30 ml rye whiskey", "30 ml cognac", "30 ml sweet vermouth", "1 bar spoon Bénédictine", "2 dashes Peychaud's bitters"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "Whiskey sour",
+    "type": "Cocktail",
+    "served": "On the rocks or straight up",
+    "standard_drinkware": "Old fashioned glass",
+    "method": "Shake with ice. Strain into chilled glass, garnish and serve.",
+    "notes": "If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice.",
+    "ingredients": ["4.5 cl (3 parts) bourbon whiskey", "3 cl (2 parts) fresh lemon juice", "1.5 cl (1 part) simple syrup"]
+  },
+  {
+    "category": "The unforgettables",
+    "name": "White lady",
+    "type": "Cocktail",
+    "served": "Straight up: chilled, without ice",
+    "standard_drinkware": "Cocktail glass",
+    "method": "Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.",
+    "notes": "This cocktail is a variant of the Sidecar",
+    "ingredients": ["4 cl gin", "3 cl Triple Sec", "2 cl lemon juice"]
+  }
+]
