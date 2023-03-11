@@ -4,6 +4,7 @@
 
 library(tidyverse)
 library(rvest)
+library(xml2)
 
 base_dir <- "wikipedia" 
 html_dir <- file.path(base_dir, "html")
@@ -48,8 +49,9 @@ extract_from_info_table <- function(html, drink_name) {
       .default = drink_name
     ) |> 
     tolower() 
-  raw_table <- html_element(html, xpath = paste0("//table[ normalize-space(translate(./caption, 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz')) = \"", xpath_drink_name, "\"]")) |> 
-    html_table(header = FALSE) 
+  raw_table_tag <- html_element(html, xpath = paste0("//table[ normalize-space(translate(./caption, 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz')) = \"", xpath_drink_name, "\"]"))
+  xml_remove(xml_find_all(raw_table_tag, "//style")) 
+  raw_table <- html_table(raw_table_tag, header = FALSE) 
   fields <- raw_table$X2
   names(fields) <- raw_table$X1
   fields_to_keep <- c("Type", "Served", "Standard drinkware", "IBA specifiedingredients", "Preparation", "Notes")
@@ -60,10 +62,12 @@ extract_from_info_table <- function(html, drink_name) {
     select(any_of(fields_to_keep))
 }
 
+html <- iba_cocktails_page_info$html[[53]]
+drink_name <- iba_cocktails_page_info$name[53]
+
 cocktails_raw <- iba_cocktails_page_info |> 
   group_by(category, name) |> 
   reframe(extract_from_info_table(html[[1]], name[[1]])) |> 
-  mutate(across(everything(), str_trim)) |> 
   rename_with( ~ .x |> tolower() |> str_replace_all("\\s+", "_"))
 
 write_csv(cocktails_raw,  file.path(base_dir, "iba-cocktails-wiki-raw.csv"))
