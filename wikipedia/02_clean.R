@@ -37,4 +37,4 @@ cocktails_nested_ingredients <- cocktails |>
 
 write_csv(cocktails, file.path(base_dir, "iba-cocktails-wiki.csv"))
 write_csv(cocktail_ingredients, file.path(base_dir, "iba-cocktails-ingredients-wiki.csv"))
-write_json(cocktails_nested_ingredients, file.path(base_dir, "iba-cocktail-wiki.json"), dataframe = 'rows', pretty = T)
+write_json(cocktails_nested_ingredients, file.path(base_dir, "iba-cocktails-wiki.json"), dataframe = 'rows', pretty = T)
