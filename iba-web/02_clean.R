@@ -25,7 +25,12 @@ cocktails <- cocktails_raw |>
   mutate(
     across(everything(), str_trim),
     across(everything(), \(x) str_remove_all(x, "\\*")),
-    across(everything(), \(x) str_replace_all(x, "’", "'")),
+    across(everything(), \(x) {
+      x |> 
+        str_replace_all("’", "'") |>
+        str_replace_all("–", "-")
+      }
+    ),
     ingredients = ingredients |> 
       str_replace_all("(?<=\\d),(?=\\d)", ".") |>
       str_replace_all("\n", ",") |> 
@@ -113,3 +118,4 @@ write_json(
   cocktails_nested_ingredients, file.path(base_dir, "iba-cocktails-web.json"), 
   dataframe = 'rows', pretty = T
 )
+

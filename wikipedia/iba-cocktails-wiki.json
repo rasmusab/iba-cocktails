@@ -34,7 +34,7 @@
     "served": "On the rocks: poured over ice",
     "standard_drinkware": "Old fashioned glass",
     "method": "Place lime and sugar into a double old fashioned glass and muddle gently. Fill the glass with cracked ice and add Cachaça. Stir gently to involve ingredients.",
-    "notes": "Caipiroska – instead of cachaça use vodka",
+    "notes": "Caipiroska - instead of cachaça use vodka",
     "ingredients": ["60 ml cachaça", "1 lime cut into small wedges", "4 teaspoons white cane sugar"]
   },
   {
@@ -447,7 +447,7 @@
     "standard_drinkware": "Cocktail glass",
     "method": "Pour all ingredients into a cocktail shaker, shake well with ice, double-strain into chilled cocktail glass",
     "notes": "If egg white is used shake vigorously",
-    "ingredients": ["60 ml London Dry gin", "30 ml lemon juice", "15 ml simple syrup", "5–6 mint leaves", "few drops of egg white (Optional)"]
+    "ingredients": ["60 ml London Dry gin", "30 ml lemon juice", "15 ml simple syrup", "5-6 mint leaves", "few drops of egg white (Optional)"]
   },
   {
     "category": "New era drinks",
@@ -483,7 +483,7 @@
     "served": "On the rocks: poured over ice",
     "standard_drinkware": "Rocks glass",
     "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled rocks glass filled with ice.",
-    "ingredients": ["60 ml Tequila agave 100% reposado", "30 ml Fresh lime juice (Persiano)", "30 ml Agave syrup (1⁄2 water + 1⁄2 agave nectar)"]
+    "ingredients": ["60 ml Tequila agave 100% reposado", "30 ml Fresh lime juice (Persiano)", "30 ml Agave syrup (1/2 water + 1/2 agave nectar)"]
   },
   {
     "category": "New era drinks",
