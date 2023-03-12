@@ -25,6 +25,7 @@ cocktails <- cocktails_raw |>
   mutate(
     across(everything(), str_trim),
     across(everything(), \(x) str_remove_all(x, "\\*")),
+    across(everything(), \(x) str_replace_all(x, "’", "'")),
     ingredients = ingredients |> 
       str_replace_all("(?<=\\d),(?=\\d)", ".") |>
       str_replace_all("\n", ",") |> 

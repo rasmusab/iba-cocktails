@@ -13,6 +13,7 @@ cocktails <- cocktails_raw |>
   ) |> 
   mutate(
     across(everything(), str_trim),
+    across(everything(), \(x) str_replace_all(x, "’", "'")),
     ingredients = ingredients |> 
       str_replace("Lemon Juice, fresh", "Lemon Juice") |> 
       str_replace_all("\n", ",") |> 

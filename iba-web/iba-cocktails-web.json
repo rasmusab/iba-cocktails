@@ -390,7 +390,7 @@
   },
   {
     "category": "Contemporary Classics",
-    "name": "Horse’s Neck",
+    "name": "Horse's Neck",
     "method": "Pour Cognac and ginger ale directly into a highball glass with ice cubes. Stir gently. If preferred, add dashes of Angostura Bitter.",
     "garnish": "Garnish with a rind of one lemon spiral.",
     "ingredients": [
@@ -596,7 +596,7 @@
   {
     "category": "Contemporary Classics",
     "name": "Mimosa",
-    "method": "Pour orange juice into a flute glass and gently pour the sparkling wine. Stir gently. Note: Also known as Buck’s Fizz.",
+    "method": "Pour orange juice into a flute glass and gently pour the sparkling wine. Stir gently. Note: Also known as Buck's Fizz.",
     "garnish": "Garnish with an orange twist (optional).",
     "ingredients": [
       {
@@ -936,7 +936,7 @@
   {
     "category": "Contemporary Classics",
     "name": "Zombie",
-    "method": "Add all ingredients into an electric blender with 170 grams of cracked ice. With pulse bottom blend for a few seconds. Serve in a tall tumbler glass.  Note: Donn’s Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup",
+    "method": "Add all ingredients into an electric blender with 170 grams of cracked ice. With pulse bottom blend for a few seconds. Serve in a tall tumbler glass.  Note: Donn's Mix: 2 parts of fresh yellow grapefruit and 1 part of cinnamon syrup",
     "garnish": "Garnish with mint leaves.",
     "ingredients": [
       {
@@ -970,10 +970,10 @@
         "ingredient": "Falernum"
       },
       {
-        "direction": "15 ml Donn’s Mix",
+        "direction": "15 ml Donn's Mix",
         "quantity": "15",
         "unit": "ml",
-        "ingredient": "Donn’s Mix"
+        "ingredient": "Donn's Mix"
       },
       {
         "direction": "1 tsp Grenadine syrup",
@@ -1035,7 +1035,7 @@
   },
   {
     "category": "New Era Drinks",
-    "name": "Bee’s Knees",
+    "name": "Bee's Knees",
     "method": "Stir honey with lemon and orange juices until it dissolves, add gin and shake with ice. Strain into a chilled cocktail glass.",
     "garnish": "Optionally garnish with a lemon or orange zest.",
     "ingredients": [
@@ -1131,7 +1131,7 @@
   },
   {
     "category": "New Era Drinks",
-    "name": "Dark ‘n’ stormy",
+    "name": "Dark ‘n' stormy",
     "method": "In a highball glass filled with ice pour the ginger beer and top floating with the Rum.",
     "garnish": "Garnish with a lime wedge or slice.",
     "ingredients": [
@@ -1729,7 +1729,7 @@
   },
   {
     "category": "New Era Drinks",
-    "name": "Tommy’s Margarita",
+    "name": "Tommy's Margarita",
     "method": "Pour all ingredients into a cocktail shaker, shake well with ice, strain into a chilled rocks glass filled with ice.",
     "garnish": "Garnish with a lime slice.",
     "ingredients": [
@@ -2238,7 +2238,7 @@
   {
     "category": "The Unforgettables",
     "name": "John Collins",
-    "method": "Pour all ingredients directly into a highball filled with ice. Stir gently. NOTE: Use ‘Old Tom’ Gin for Tom Collins.",
+    "method": "Pour all ingredients directly into a highball filled with ice. Stir gently. NOTE: Use ‘Old Tom' Gin for Tom Collins.",
     "garnish": "Garnish with a lemon slice and maraschino cherry.",
     "ingredients": [
       {
@@ -2503,7 +2503,7 @@
   },
   {
     "category": "The Unforgettables",
-    "name": "Planter’s Punch",
+    "name": "Planter's Punch",
     "method": "Pour all ingredients directly in a small tumbler or a typical terracotta glass. NOTE: Add dilution up to taste, it can be given by water, ice or fresh juices.",
     "garnish": "Garnish with orange zest.",
     "ingredients": [
@@ -2556,7 +2556,7 @@
   {
     "category": "The Unforgettables",
     "name": "Ramos Fizz",
-    "method": "Pour all ingredients except soda water in a cocktail shaker with ice, Shake for two minutes, double strain in a glass, pour the drink back in the shaker, and hard shake without ice for one minute. Strain into a highball glass, top up with soda. NOTE: The drink was invented by Henry Ramos in 1888, at his bar Meyer’s Table d’Hôtel Internationale in New Orleans. The Ramos Fizz was originally shaken for 12 minutes by a crew of 30 bartenders who passed the shaker from one to another.",
+    "method": "Pour all ingredients except soda water in a cocktail shaker with ice, Shake for two minutes, double strain in a glass, pour the drink back in the shaker, and hard shake without ice for one minute. Strain into a highball glass, top up with soda. NOTE: The drink was invented by Henry Ramos in 1888, at his bar Meyer's Table d'Hôtel Internationale in New Orleans. The Ramos Fizz was originally shaken for 12 minutes by a crew of 30 bartenders who passed the shaker from one to another.",
     "ingredients": [
       {
         "direction": "45 ml Gin",
@@ -2659,10 +2659,10 @@
         "ingredient": "Sugar Cube"
       },
       {
-        "direction": "2 Dashes Peychaud’s Bitters",
+        "direction": "2 Dashes Peychaud's Bitters",
         "quantity": "2",
         "unit": "dash",
-        "ingredient": "Peychaud’s Bitters"
+        "ingredient": "Peychaud's Bitters"
       }
     ]
   },
@@ -2780,10 +2780,10 @@
         "ingredient": "Bénédictine"
       },
       {
-        "direction": "2 Dashes Peychaud’s Bitters",
+        "direction": "2 Dashes Peychaud's Bitters",
         "quantity": "2",
         "unit": "dash",
-        "ingredient": "Peychaud’s Bitters"
+        "ingredient": "Peychaud's Bitters"
       }
     ]
   },
